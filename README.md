@@ -1,5 +1,16 @@
 ### Hi there 👋
 ![](https://raw.githubusercontent.com/DeadPanne/Deadpanne/main/banner.png)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Mandarin
+- 👯 I’m looking to collaborate on some music projects and maybe some games
+- 💬 Ask me about Synths, Retro Games and anything else you can think of!
+- 📫 How to reach me: Telegram:ItsMaple 微信:DeadPanne 
+- 😄 Pronouns: They/Them
+
+
+
+
+
 <!--
 **DeadPanne/Deadpanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
