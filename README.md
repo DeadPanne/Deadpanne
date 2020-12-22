@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 ![](https://raw.githubusercontent.com/DeadPanne/Deadpanne/main/banner.png)
+### About Me 🦌 
 - 🔭 I’m currently working on a Eurorack Sequencer
 - 🌱 I’m currently learning Mandarin
 - 👯 I’m looking to collaborate on some music projects and maybe some games
