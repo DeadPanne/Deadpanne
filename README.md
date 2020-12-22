@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning Mandarin
 - 👯 I’m looking to collaborate on some music projects and maybe some games
 - 💬 Ask me about Synths, Retro Games and anything else you can think of!
-- 📫 How to reach me: 
---Telegram:ItsMaple
---微信:DeadPanne
---Discord:ItsMaple#1578
 - 😄 Pronouns: They/Them
+## 📫 How to reach me:
+* Telegram:ItsMaple
+* 微信:DeadPanne
+* Discord:ItsMaple#1578
 
 
 
