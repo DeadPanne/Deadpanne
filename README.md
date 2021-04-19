@@ -8,7 +8,7 @@
 - 😄 Pronouns: They/Them
 
 ## Languages 🌎
--EN,FR,IT,RU,日本語.中文OK
+🇬🇧🇫🇷🇮🇹🇷🇺🇯🇵🇨🇳🇹🇼
 ## 📫 How to reach me:
 * Telegram:ItsMaple
 * 微信:DeadPanne
