@@ -7,7 +7,15 @@
 - 💬 Ask me about Synths, Retro Games and anything else you can think of! 
 - 😄 Pronouns: They/Them
 
-## Languages 🌎
+### Ma Biographie
+ - 🔭 Je développe en ce moment un séquenceur Eurorack.
+ - 🌱 J'apprends en ce moment le mandarin
+ - 👯 Je cherche à collaborer sur des projets musicaux et peut-être des jeux-vidéo.
+ - 💬 Posez-moi des questions sur les synthétiseurs, les jeux-video rétro et tout ce qui vous passe par la tête!
+ - 😄 Pronoms : Ils/Elles, je m'en fous idk
+
+
+## Languages🌎Langues
 🇬🇧 🇫🇷 🇮🇹 🇷🇺 🇯🇵 🇨🇳 🇹🇼
 ## 📫 How to reach me:
 * Telegram:ItsMaple
