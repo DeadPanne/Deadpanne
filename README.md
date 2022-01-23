@@ -5,15 +5,14 @@
 - 🌱 I’m currently learning Mandarin
 - 👯 I’m looking to collaborate on some music projects and maybe some games
 - 💬 Ask me about Synths, Retro Games and anything else you can think of! 
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: She/They
 
 ### Ma Biographie
  - 🔭 Je développe en ce moment un séquenceur Eurorack.
  - 🌱 J'apprends en ce moment le mandarin
  - 👯 Je cherche à collaborer sur des projets musicaux et peut-être des jeux-vidéo.
  - 💬 Posez-moi des questions sur les synthétiseurs, les jeux-video rétro et tout ce qui vous passe par la tête!
- - 😄 Pronoms : Ils/Elles, je m'en fous idk
-
+ - 😄 Pronoms : Elle/Iel
 
 ## Languages🌎Langues
 🇬🇧 🇫🇷 🇮🇹 🇷🇺 🇯🇵 🇨🇳 🇹🇼
