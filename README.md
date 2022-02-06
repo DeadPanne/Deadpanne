@@ -21,6 +21,7 @@
 * 微信:DeadPanne
 * Discord:ItsMaple#1578
 * Twitter:@MapleTheDeer
+* Email:maple@bleat.gay
 
 
 
